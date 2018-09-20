@@ -23,8 +23,8 @@
                 <div class="myfont">
                     <ul class="nav navbar-nav navbar-right">
                         
-                        <li class="myfont"><a href="signoup.html" class="navbaar-brand"  ><span class="glyphicon glyphicon-user">SignUp</span></a></li>
-                        <li class="myfont"><a  class="navbar-brand"   data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-log-out">LogIn</span></a></li>
+                        <li class="myfont"><a href="signup.html" class="navbaar-brand"  ><span class="glyphicon glyphicon-user">SignUp</span></a></li>
+                        <li class="myfont"><a href="#" class="navbar-brand"   data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-log-out">LogIn</span></a></li>
                     </ul>
                 </div>
                 
