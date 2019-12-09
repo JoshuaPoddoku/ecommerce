@@ -1,7 +1,8 @@
 <footer>
     <div class="container">
         <center>
-            <p>Copyright &copy; Lifestyle Store. All Rights Reserved  |  Contact Us: +91 90000 00000</p>	
+        <p>Copyright &copy; Lifestyle Store. (eCommerce clone)  | 
+        Made with &hearts; by <a href="https://github.com/JoshuaPoddoku">Joshua Poddoku</a></p>		
         </center>
     </div>
 </footer>
